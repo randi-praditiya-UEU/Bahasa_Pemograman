@@ -1,0 +1,8 @@
+print("RANDI PRADITIYA")
+print("20210801265")
+print("TEKNIK INFORAMATIKA")
+print("===================================================")
+print("PROGRAM QUIZ")
+print("===================================================")
+nama = input("Masukan nama : ")
+nim = input("Masukan nim : ")
